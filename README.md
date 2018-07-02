@@ -41,7 +41,7 @@ Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
 
 <br><br>
 #### 使用平台
-JDK 1.8以上 + Tomcat 8.0以上 + MySQL 5.5.3以上
+JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 <br><br>
 #### 源码运行教程
