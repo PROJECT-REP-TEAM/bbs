@@ -10,6 +10,8 @@
 
 
 
+
+
 #### 技术选型
 Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
 
@@ -32,6 +34,8 @@ Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
 
 
 编译好的安装包安装参考：[http://www.diyhi.com/forumInstall.html](http://www.diyhi.com/forumInstall.html)
+
+
 
 
 
