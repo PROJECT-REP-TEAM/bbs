@@ -39,8 +39,9 @@ Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
 编译好的安装包安装参考：[http://www.diyhi.com/forumInstall.html](http://www.diyhi.com/forumInstall.html)
 
 
-
-
+<br><br>
+#### 使用平台
+JDK 1.8以上 + Tomcat 8.0以上 + MySQL 5.5.3以上
 
 <br><br>
 #### 源码运行教程
