@@ -9,23 +9,31 @@
 
 
 
+
 #### 技术选型
 Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
+
 
 
 官方网站：[http://www.diyhi.com/](http://www.diyhi.com/)
 
 
+
 演示网站：[http://www.diyhi.com/cms.html](http://www.diyhi.com/cms.html) 页面可获取前后台演示地址、登录账号和密码
+
 
 
 安装环境配置参考：[http://www.diyhi.com/hostConfig.html](http://www.diyhi.com/hostConfig.html)
 
 
+
 编译好的安装包下载页面：[http://www.diyhi.com/cms.html](http://www.diyhi.com/cms.html)
 
 
+
 编译好的安装包安装参考：[http://www.diyhi.com/forumInstall.html](http://www.diyhi.com/forumInstall.html)
+
+
 
 
 #### 源码运行教程
@@ -46,25 +54,4 @@ Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
 ![输入图片说明](https://gitee.com/uploads/images/2018/0702/155505_1d777ac2_2024507.png "图2.png")
 
 
-#### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本项目
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [http://git.mydoc.io/](http://git.mydoc.io/)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
