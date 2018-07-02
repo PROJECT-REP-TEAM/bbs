@@ -1,5 +1,7 @@
 # 巡云轻论坛系统
 
+<br><br>
+
 #### 项目介绍
 巡云轻论坛系统采用JAVA+MYSQL架构，自适应手机端和电脑端，界面简洁，性能高效。后台数据库备份/还原、全站指定目录打包、一键自动升级等功能使维护简单方便。系统拥有强大的模板管理功能，布局版块支持设置输出条件，让前端页面展示方便快捷。
 
@@ -40,7 +42,7 @@ Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
 
 
 
-
+<br><br>
 #### 源码运行教程
 
 1.将源代码导入到Eclipse中(基于Maven)，然后启动Tomcat
@@ -59,7 +61,7 @@ Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
 ![输入图片说明](https://gitee.com/uploads/images/2018/0702/155505_1d777ac2_2024507.png "图2.png")
 
 
-
+<br><br>
 #### 主要功能
 （1）话题管理（话题列表、标签列表、全部待审核话题、全部待审核评论、全部待审核回复、话题搜索
 
