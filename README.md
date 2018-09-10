@@ -113,7 +113,8 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 <br><br>
 
-![输入图片说明](https://gitee.com/uploads/images/2018/0702/161224_6e2c78da_2024507.png "m3.png")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0820/081248_da9f9729_2024507.png "m3.png")
 
 <br><br>
 #### 安装界面
