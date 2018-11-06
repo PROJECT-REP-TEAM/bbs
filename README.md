@@ -70,7 +70,7 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 （3）友情链接管理(友情链接列表)
 
-（4）会员管理(会员列表、会员等级、会员注册项、会员注册禁止用户名称、会员搜索、登录日志、私信、系统通知)
+（4）会员管理(会员列表、会员等级、会员注册项、会员注册禁止用户名称、会员搜索、登录日志、更换头像、私信、系统通知、提醒)
 
 （5）员工管理(员工列表、角色列表、登录日志)
 
@@ -94,28 +94,26 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 <br><br>
 #### 前端界面(电脑版)
-![输入图片说明](https://gitee.com/uploads/images/2018/0702/160656_1f45f123_2024507.png "1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1106/085842_1efd851d_2024507.png "1.png")
 <br><br>
 
-![输入图片说明](https://gitee.com/uploads/images/2018/0702/160847_739c8c0f_2024507.jpeg "2.jpg")
 
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1106/085922_98a11193_2024507.png "2.png")
 <br><br>
 
-![输入图片说明](https://gitee.com/uploads/images/2018/0702/160918_ed662717_2024507.png "3.png")
-
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1106/085959_dbb7725c_2024507.png "3.png")
 <br><br>
 #### 前端界面(手机版)
-![输入图片说明](https://gitee.com/uploads/images/2018/0702/161049_e7e5a260_2024507.png "m1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0910/090831_d44620a3_2024507.png "m1.png")
 
 <br><br>
 
-![输入图片说明](https://gitee.com/uploads/images/2018/0702/161206_656f6bd2_2024507.jpeg "m2.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2018/0910/091116_40b30bad_2024507.jpeg "m2.jpg")
 
 <br><br>
 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/0820/081248_da9f9729_2024507.png "m3.png")
-
+![输入图片说明](https://images.gitee.com/uploads/images/2018/1106/090029_6c417abd_2024507.png "m3.png")
 <br><br>
 #### 安装界面
 ![输入图片说明](https://gitee.com/uploads/images/2018/0702/161458_bb1f7454_2024507.png "600.png")
