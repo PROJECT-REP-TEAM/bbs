@@ -20,24 +20,6 @@ Spring 5.0 + SpringMVC + JPA + Ehcache(可选Memcached) + Lucene
 
 
 
-官方网站：[http://www.diyhi.com/](http://www.diyhi.com/)
-
-
-
-演示网站：[http://www.diyhi.com/cms.html](http://www.diyhi.com/cms.html) 页面可获取前后台演示地址、登录账号和密码
-
-
-
-安装环境配置参考：[http://www.diyhi.com/hostConfig.html](http://www.diyhi.com/hostConfig.html)
-
-
-
-编译好的安装包下载页面：[http://www.diyhi.com/cms.html](http://www.diyhi.com/cms.html)
-
-
-
-编译好的安装包安装参考：[http://www.diyhi.com/forumInstall.html](http://www.diyhi.com/forumInstall.html)
-
 
 <br><br>
 #### 使用平台
@@ -46,16 +28,16 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 <br><br>
 #### 源码运行教程
 
-1.将源代码导入到Eclipse中(基于Maven)，然后启动Tomcat
+1.将源代码导入到Eclipse中(基于Maven)
 
 
 2.修改数据库配置文件:修改项目下src\main\resources\druid.properties文件，请自行替换数据库信息
 
 ![输入图片说明](https://gitee.com/uploads/images/2018/0702/155440_dce1a0f7_2024507.png "图1.png")
 
+3.然后启动Tomcat
 
-
-3.在Eclipse中打开src\test\java\forum\Init.java执行main方法，将SQL导入到数据库,然后重启Tomcat
+4.在Eclipse中打开src\test\java\forum\Init.java执行main方法，将SQL导入到数据库,然后重启Tomcat
 
 即可正常运行。管理员初始账号admin 密码1234567(可自行修改)
 
@@ -70,7 +52,7 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 （3）友情链接管理(友情链接列表)
 
-（4）会员管理(会员列表、会员等级、会员注册项、会员注册禁止用户名称、会员搜索、登录日志、更换头像、私信、系统通知、提醒)
+（4）会员管理(会员列表、会员等级、会员注册项、会员注册禁止用户名称、会员搜索、登录日志、更换头像、私信、系统通知、提醒、收藏夹)
 
 （5）员工管理(员工列表、角色列表、登录日志)
 
