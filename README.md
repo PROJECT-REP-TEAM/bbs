@@ -69,7 +69,7 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 （3）友情链接管理(友情链接列表)
 
-（4）会员管理(会员列表、会员等级、会员注册项、会员注册禁止用户名称、会员搜索、登录日志、更换头像、私信、系统通知、提醒、收藏夹)
+（4）会员管理(会员列表、会员等级、会员注册项、会员注册禁止用户名称、会员搜索、登录日志、更换头像、私信、系统通知、提醒、收藏夹、点赞、关注、粉丝)
 
 （5）员工管理(员工列表、角色列表、登录日志)
 
@@ -93,34 +93,34 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 <br><br>
 #### 前端界面(电脑版)
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0325/092742_3f30f7c8_2024507.png "1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083817_7df1e5a9_2024507.jpeg "1.jpg")
 <br><br>
 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0325/092843_e0c88ea9_2024507.png "2.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083831_fa9fb410_2024507.jpeg "2.jpg")
 <br><br>
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0325/092910_4179b61a_2024507.png "3.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083844_9f0c732e_2024507.jpeg "3.jpg")
 <br><br>
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0624/091709_904d9dec_2024507.jpeg "4.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083856_9f5cf073_2024507.jpeg "4.jpg")
 <br><br>
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0624/091752_397b5213_2024507.jpeg "5.jpg")
-
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083910_08521ce2_2024507.jpeg "5.jpg")
+<br><br>
 
 
 #### 前端界面(手机版)
-![输入图片说明](https://images.gitee.com/uploads/images/2018/0910/090831_d44620a3_2024507.png "m1.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083925_b86eab7c_2024507.jpeg "m1.jpg")
 
 <br><br>
 
-![输入图片说明](https://images.gitee.com/uploads/images/2018/0910/091116_40b30bad_2024507.jpeg "m2.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083943_a18433cd_2024507.jpeg "m2.jpg")
 
 <br><br>
 
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0325/092957_aaed0050_2024507.png "m3.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083957_9936b613_2024507.jpeg "m3.jpg")
 <br><br>
 #### 安装界面
 ![输入图片说明](https://gitee.com/uploads/images/2018/0702/161458_bb1f7454_2024507.png "600.png")
