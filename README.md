@@ -63,7 +63,7 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 <br><br>
 #### 主要功能
-（1）话题管理（话题列表、标签列表、全部待审核话题、全部待审核评论、全部待审核回复、话题搜索
+（1）话题管理（话题列表、标签列表、全部待审核话题、全部待审核评论、全部待审核回复、话题搜索）
 
 （2）留言管理（留言列表）
 
@@ -71,56 +71,62 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 （4）会员管理(会员列表、会员等级、会员注册项、会员角色、会员注册禁止用户名称、会员搜索、登录日志、更换头像、私信、系统通知、提醒、收藏夹、点赞、关注、粉丝)
 
-（5）员工管理(员工列表、角色列表、登录日志)
+（5）会员卡管理(会员卡列表、会员卡订单)
 
-（6）在线帮助管理(在线帮助分类、合并分类、在线帮助列表)
+（6）员工管理(员工列表、角色列表、登录日志)
 
-（7）模板管理(模板列表、导出模板、导入模板、版块代码管理、资源管理、布局管理、栏目管理、代码编辑)
+（7）在线帮助管理(在线帮助分类、合并分类、在线帮助列表)
 
-（8）浏览量管理(浏览量列表)
+（8）模板管理(模板列表、导出模板、导入模板、版块代码管理、资源管理、布局管理、栏目管理、代码编辑)
 
-（9）文件打包管理(压缩文件列表、打包文件)
+（9）浏览量管理(浏览量列表)
 
-（10）系统通知管理(系统通知列表)
+（10）文件打包管理(压缩文件列表、打包文件)
 
-（11）全站设置(基本设置、维护数据、敏感词、数据库备份/还原、服务器节点参数、升级)
+（11）系统通知管理(系统通知列表)
 
-（12）短信管理(短信接口列表、短信发送错误日志)
+（12）平台收益管理(解锁话题隐藏内容分成)
 
-（13）缩略图管理(缩略图列表)
+（13）全站设置(基本设置、维护数据、敏感词、数据库备份/还原、服务器节点参数、升级)
+
+（14）支付管理(在线支付接口)
+
+（15）短信管理(短信接口列表、短信发送错误日志)
+
+（16）缩略图管理(缩略图列表)
+
 
 
 
 <br><br>
 #### 前端界面(电脑版)
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0827/090142_0f6f8451_2024507.jpeg "1.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084841_a680ff90_2024507.jpeg "1.jpg")
 <br><br>
 
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083831_fa9fb410_2024507.jpeg "2.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084551_d0a09307_2024507.jpeg "2.jpg")
 <br><br>
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083844_9f0c732e_2024507.jpeg "3.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084604_8c82cf5b_2024507.jpeg "3.jpg")
 <br><br>
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083856_9f5cf073_2024507.jpeg "4.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084614_1e569c88_2024507.jpeg "4.jpg")
 <br><br>
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083910_08521ce2_2024507.jpeg "5.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084625_4f27b86c_2024507.jpeg "5.jpg")
 <br><br>
-
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084643_f5451f3d_2024507.jpeg "6.jpg")
+<br><br>
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084654_fcbad9b2_2024507.jpeg "7.jpg")
+<br><br>
 
 #### 前端界面(手机版)
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083925_b86eab7c_2024507.jpeg "m1.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084710_957fd541_2024507.jpeg "m1.jpg")
 
 <br><br>
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083943_a18433cd_2024507.jpeg "m2.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084728_e15d51fc_2024507.jpeg "m2.jpg")
 
 <br><br>
 
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0805/083957_9936b613_2024507.jpeg "m3.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084743_3cca7f6b_2024507.jpeg "m3.jpg")
 <br><br>
 #### 安装界面
 ![输入图片说明](https://gitee.com/uploads/images/2018/0702/161458_bb1f7454_2024507.png "600.png")
