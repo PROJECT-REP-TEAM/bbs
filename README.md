@@ -87,7 +87,7 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 （12）系统通知管理(系统通知列表)
 
-（13）平台收益管理(解锁话题隐藏内容分成)
+（13）平台收益管理(解锁话题隐藏内容分成、问答悬赏平台分成)
 
 （14）全站设置(基本设置、维护数据、敏感词、数据库备份/还原、服务器节点参数、升级)
 
@@ -102,10 +102,10 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 <br><br>
 #### 前端界面(电脑版)
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1203/083445_b3570323_2024507.jpeg "1.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1224/083752_affbc5a5_2024507.jpeg "1.jpg")
 <br><br>
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1203/083505_a0d2d9d7_2024507.jpeg "2.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1224/083807_05de8c92_2024507.jpeg "2.jpg")
 <br><br>
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1203/083538_ca9c64d7_2024507.jpeg "3.jpg")
@@ -118,9 +118,9 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 <br><br>
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0918/084654_fcbad9b2_2024507.jpeg "7.jpg")
 <br><br>
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1119/084612_a0283ba4_2024507.jpeg "a1.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1224/083958_d9b2d1de_2024507.jpeg "8.jpg")
 <br><br>
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1203/083618_19130609_2024507.jpeg "9.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1224/084008_0ce46c34_2024507.jpeg "9.jpg")
 <br><br><br>
 
 #### 前端界面(手机版)
