@@ -102,7 +102,7 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 
 <br><br>
 #### 前端界面(电脑版)
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1224/083752_affbc5a5_2024507.jpeg "1.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0114/092258_a9ae3f95_2024507.jpeg "1.jpg")
 <br><br>
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1224/083807_05de8c92_2024507.jpeg "2.jpg")
