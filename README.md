@@ -70,7 +70,7 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 、标签设置角色）
 
 
-（2）问答（发表问题、编辑问题、发表答案、编辑答案、发表回复、编辑回复、审核问题、审核答案、审核回复、搜索问题
+（2）问答（发表问题、追加问题、发表答案、编辑答案、发表回复、编辑回复、审核问题、审核答案、审核回复、搜索问题
 
 、悬赏现金、悬赏积分、收藏、设置最佳答案）
 
@@ -144,8 +144,7 @@ JDK 1.8及以上 + Tomcat 8.0及以上 + MySQL 5.5.3及以上
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0602/101730_3d5930f7_2024507.jpeg "m2.jpg")
 
 <br><br>
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0602/101742_623467ef_2024507.jpeg "m3.jpg")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0630/090734_b7b618c7_2024507.jpeg "m3.jpg")
 <br><br>
 #### 安装界面
 ![输入图片说明](https://gitee.com/uploads/images/2018/0702/161458_bb1f7454_2024507.png "600.png")
