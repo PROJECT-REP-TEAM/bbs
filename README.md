@@ -1,4 +1,4 @@
-# 巡云轻论坛系统
+###  Spring Boot 版本轻论坛请移步至 [https://gitee.com/diyhi/bbs-pro](https://gitee.com/diyhi/bbs-pro)
 
 <br>
 
